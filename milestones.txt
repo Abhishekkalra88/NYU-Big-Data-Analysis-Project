@@ -56,3 +56,19 @@ Task Description: Preparation of presentation to  communicate the findings of th
 Status: Not Started
 
 --------------------------------------
+
+Weekly Schedule
+Week of Nov. 9th:
+	Deliverables: Project ideation
+Week of Nov.16th:
+	Deliverables: Dataset Identification; Literature Review
+Week of Nov.23rd
+	Deliverables: Experimental Design; Begin Data Analysis
+Week of Nov.30th
+	Deliverables: Finalize Data Analysis; Documentation
+Week of Dec.7th
+	Deliverables: Project report; Prepare for Project Presentation
+Week of Dec.14th
+	Deliverables: Project Presentation
+
+---------------------------------------
