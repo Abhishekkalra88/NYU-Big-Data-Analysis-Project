@@ -22,32 +22,42 @@ Status: Completed
 Task:  Literature Review
 Assignee: R
 Task Description: Undertake a review of the existing literature to identify potential avenue for identifying open questions and limitations of the existing studies made.
-Status: In-Progress
+Status: Completed
 
 Task: Experimental Design
 Assignee: A
 Task Description: Determine the experimental design to be undertaken to designate the scope of data analysis techniques (data remediation,
 evaluation metrics, performance window, visualization techniques etc)
-Status: Not Started
+Status: Completed
 
 Task: Data Analysis - Poverty
 Assignee: FT
 Task Description: Undertake the analysis of poverty and income security related datasets
-Status: Not Started
+Status: Completed
 
 Task: Data Analysis - Health/public safety
 Assignee: AK
 Task Description: Undertake the analysis of healthcare and public safety related datasets
-Status: Not Started
+Status: Completed
 
 Task: Data Analysis - Education
 Assignee: R
 Task Description: Undertake the analysis of Education related datasets
 Status: Not Started
 
+Task: Linear Regression - Health/public safety/Income Secruity/Poverty - Mental Health
+Assignee: AK
+Task Description: Undertake the analysis of impact of COVID 's influence on Health/public safety/Income Secruity/Poverty to affect mental health wellbeing
+Status: Completed
+
 Task: Documentation
 Assignee: A
 Task Description: Document the details of the analysis conducted including literature review, experimental design, data analysis and achieved results
+Status: Not Started
+
+Task: Documentation -LateX
+Assignee: R
+Task Description: Document the details of the analysis conducted including literature review, experimental design, data analysis and achieved results in LateX ACM format.
 Status: Not Started
 
 Task: Project Presentation
@@ -65,7 +75,7 @@ Week of Nov.16th:
 Week of Nov.23rd
 	Deliverables: Experimental Design; Begin Data Analysis
 Week of Nov.30th
-	Deliverables: Finalize Data Analysis; Documentation
+	Deliverables: Finalize Data Analysis;Data Analysis-Linear Regression; Documentation
 Week of Dec.7th
 	Deliverables: Project report; Prepare for Project Presentation
 Week of Dec.14th
