@@ -40,11 +40,6 @@ Assignee: AK
 Task Description: Undertake the analysis of healthcare and public safety related datasets
 Status: Completed
 
-Task: Data Analysis - Education
-Assignee: R
-Task Description: Undertake the analysis of Education related datasets
-Status: Not Started
-
 Task: Linear Regression - Health/public safety/Income Secruity/Poverty - Mental Health
 Assignee: AK
 Task Description: Undertake the analysis of impact of COVID 's influence on Health/public safety/Income Secruity/Poverty to affect mental health wellbeing
@@ -53,12 +48,12 @@ Status: Completed
 Task: Documentation
 Assignee: A
 Task Description: Document the details of the analysis conducted including literature review, experimental design, data analysis and achieved results
-Status: In-Progress
+Status: Completed
 
 Task: Documentation -LateX
 Assignee: R
 Task Description: Document the details of the analysis conducted including literature review, experimental design, data analysis and achieved results in LateX ACM format.
-Status: In-Progress
+Status: Completed
 
 Task: Project Presentation
 Assignee: A
