@@ -53,12 +53,12 @@ Status: Completed
 Task: Documentation
 Assignee: A
 Task Description: Document the details of the analysis conducted including literature review, experimental design, data analysis and achieved results
-Status: Not Started
+Status: In-Progress
 
 Task: Documentation -LateX
 Assignee: R
 Task Description: Document the details of the analysis conducted including literature review, experimental design, data analysis and achieved results in LateX ACM format.
-Status: Not Started
+Status: In-Progress
 
 Task: Project Presentation
 Assignee: A
